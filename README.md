@@ -1,2 +1,2 @@
-# rockPaperScissor
+# RockPaperScissor game using python
 This is a python based rock paper scissor game. 
